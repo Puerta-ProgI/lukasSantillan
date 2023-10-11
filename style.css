@@ -1,0 +1,28 @@
+h2 {
+    color: brown;
+}
+
+nav {
+    margin-bottom: 2rem;
+}
+
+.dos {
+    background-color: aqua;
+}
+
+#tres {
+    height: 10px;
+}
+
+.ms-id {
+    font-style: italic;
+}
+
+.ms-nombre {
+    font-weight: bold;
+}
+
+.card {
+    width: 18rem;
+}
+
